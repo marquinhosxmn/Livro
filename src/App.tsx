@@ -52,7 +52,7 @@ export default function App() {
                 Um guia visual completo que revela os lugares da Bíblia com profundidade histórica e precisão geográfica.
               </p>
               <a 
-                href="https://comprasprotegidas.com.br/WpGiNljA"
+                href="https://www.seguropagamentos.com.br/livrocultura"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-ink text-paper px-8 py-4 rounded-sm uppercase tracking-widest text-sm font-medium hover:bg-ink/90 transition-colors duration-300"
@@ -264,7 +264,7 @@ export default function App() {
               </ul>
 
               <a 
-                href="https://comprasprotegidas.com.br/WpGiNljA"
+                href="https://www.seguropagamentos.com.br/livrocultura"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center bg-gold text-ink px-8 py-5 rounded-sm uppercase tracking-widest text-sm font-bold hover:bg-gold-light transition-colors duration-300"
@@ -315,7 +315,7 @@ export default function App() {
               "Conhecer os lugares onde a história bíblica aconteceu é aproximar-se ainda mais da mensagem que ela carrega."
             </h2>
             <a 
-              href="https://comprasprotegidas.com.br/WpGiNljA"
+              href="https://www.seguropagamentos.com.br/livrocultura"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-ink text-paper px-10 py-5 rounded-sm uppercase tracking-widest text-sm font-medium hover:bg-ink/90 transition-colors duration-300"
